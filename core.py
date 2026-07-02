@@ -2,7 +2,7 @@
 core.py — Shared logic for TaxBot Ghana.
 
 Imported by both taxbot.py (CLI) and server.py (web).
-Contains: config, knowledge base loading, system prompt, chat(), session save.
+Contains: config, knowledge base loading, system prompt, RAG retrieval, chat(), session save.
 """
 
 import json
@@ -40,6 +40,7 @@ API_HEADERS = {
 }
 
 MAX_HISTORY_TURNS = 40
+RAG_TOP_K         = 3    # number of KB chunks to retrieve per query
 
 # ── Knowledge Base ─────────────────────────────────────────────────────────
 
@@ -64,6 +65,19 @@ def load_knowledge_base(path=None):
     except json.JSONDecodeError as e:
         print(f"[WARNING] Knowledge base JSON is malformed: {e}")
         return None
+
+# ── RAG Retriever ──────────────────────────────────────────────────────────
+
+def _init_retriever():
+    """Load the RAG retriever at startup. Returns None if unavailable."""
+    try:
+        from knowledge_base.retriever import Retriever
+        return Retriever()
+    except Exception as exc:
+        print(f"[WARNING] RAG retriever could not be loaded: {exc}")
+        return None
+
+retriever = _init_retriever()
 
 # ── System Prompt ──────────────────────────────────────────────────────────
 
@@ -125,10 +139,30 @@ def trim_history(history):
 def chat(user_message, system_prompt, conversation_history):
     """
     Send user_message to OpenRouter; update conversation_history in-place.
+    RAG: retrieves the top-K most relevant KB chunks and prepends them to
+    the user message so the LLM always has grounded context.
     Returns the assistant's reply string.
     Raises Exception with a user-friendly message on any error.
     """
-    conversation_history.append({"role": "user", "content": user_message})
+    # ── RAG: retrieve relevant context ──────────────────────────────────────
+    rag_context = ""
+    if retriever is not None:
+        try:
+            rag_context = retriever.get_context(user_message, top_k=RAG_TOP_K)
+        except Exception:
+            pass   # retriever failure is non-fatal — LLM still answers
+
+    # Augment the user message with retrieved context
+    if rag_context:
+        augmented_message = (
+            f"{rag_context}\n\n"
+            f"---\n\n"
+            f"**User question:** {user_message}"
+        )
+    else:
+        augmented_message = user_message
+
+    conversation_history.append({"role": "user", "content": augmented_message})
     trim_history(conversation_history)
 
     payload = {
