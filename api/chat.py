@@ -33,7 +33,7 @@ try:
         KV_REST_API_URL,
         KV_REST_API_TOKEN,
     )
-    from api.core import load_knowledge_base, build_system_prompt, chat
+    from core import load_knowledge_base, build_system_prompt, chat
     import requests as http_requests
 
     # ── Startup: load KB and build system prompt once (cold start) ─────────────

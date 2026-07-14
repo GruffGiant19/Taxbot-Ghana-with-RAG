@@ -1,0 +1,1087 @@
+[
+  {
+    "id": "tax_system_overview_constitutional_basis",
+    "title": "Ghana Tax System Overview — Constitutional basis",
+    "source_path": "tax_system_overview.constitutional_basis",
+    "text": "Ghana Tax System Overview — Constitutional basis\n\nArticle 174(1) of the 1992 Constitution of Ghana — no tax shall be imposed except by or under the authority of an Act of Parliament.",
+    "word_count": 32
+  },
+  {
+    "id": "tax_system_overview_revenue_authority",
+    "title": "Ghana Tax System Overview — Revenue authority",
+    "source_path": "tax_system_overview.revenue_authority",
+    "text": "Ghana Tax System Overview — Revenue authority\n\nGhana Revenue Authority (GRA) — single authority administering all taxes under the Revenue Administration Act, 2016 (Act 915). Replaced the former IRS, CEPS, and VAT Service.",
+    "word_count": 33
+  },
+  {
+    "id": "tax_system_overview_msme_definition",
+    "title": "Ghana Tax System Overview — Msme definition",
+    "source_path": "tax_system_overview.msme_definition",
+    "text": "Ghana Tax System Overview — Msme definition\n\nNbssi definition: Enterprise with turnover greater than USD 200,000 and not more than USD 5,000,000 equivalent.\nGss definition by employees:\n  Micro: 1–5 employees\n  Small: 6–30 employees\n  Medium: 31–100 employees\n  Large: More than 100 employees",
+    "word_count": 41
+  },
+  {
+    "id": "tax_system_overview_taxpayer_categories",
+    "title": "Ghana Tax System Overview — Taxpayer categories",
+    "source_path": "tax_system_overview.taxpayer_categories",
+    "text": "Ghana Tax System Overview — Taxpayer categories\n\n- Public sector employees\n- Private formal sector employees\n- Self-employed / private informal sector (includes MSMEs)",
+    "word_count": 24
+  },
+  {
+    "id": "tax_system_overview_main_tax_obligations_for_msmes",
+    "title": "Ghana Tax System Overview — Main tax obligations for msmes",
+    "source_path": "tax_system_overview.main_tax_obligations_for_msmes",
+    "text": "Ghana Tax System Overview — Main tax obligations for msmes\n\n- Income Tax (personal for sole proprietors, or corporate)\n- Withholding Tax\n- Value Added Tax (VAT)\n- National Health Insurance Levy (NHIL)\n- COVID-19 Levy\n- Ghana Education Trust Fund Levy (GETFund Levy)\n- Property Tax\n- Excise Duty\n- Tax Stamp\n- Municipal Tax\n- Communication Service Tax\n- E-Levy",
+    "word_count": 62
+  },
+  {
+    "id": "income_tax_overview",
+    "title": "Income Tax — Overview",
+    "source_path": "income_tax.overview",
+    "text": "Income Tax — Overview\n\nBasis: A person is liable to pay income tax on their chargeable income or on final withholding payments received during the year of assessment.\nChargeable income: Assessable income minus allowable deductions. Each source of income is determined separately.\nAssessable income:\n  Resident person: Worldwide income from all sources.\n  Non resident person: Income sourced from Ghana only.\n  Non resident with permanent establishment: Income of the permanent establishment in Ghana.\nYear of assessment: The calendar year.\nBasis period:\n  Individual or partnership: The calendar year.\n  Company or trust: The accounting year, or any other period approved by the Commissioner-General.",
+    "word_count": 99
+  },
+  {
+    "id": "income_tax_employment_included",
+    "title": "Income Tax — Employment Income & PAYE — Included",
+    "source_path": "income_tax.income_from_employment.included",
+    "text": "Income Tax — Employment Income & PAYE — Included\n\n- Salary, wages, leave pay, fees, commissions, gratuities\n- Overtime pay, bonuses\n- Benefits and allowances paid in cash or given in kind",
+    "word_count": 32
+  },
+  {
+    "id": "income_tax_employment_excluded",
+    "title": "Income Tax — Employment Income & PAYE — Excluded",
+    "source_path": "income_tax.income_from_employment.excluded",
+    "text": "Income Tax — Employment Income & PAYE — Excluded\n\n- Final withholding payments\n- Reimbursements of expenses incurred on behalf of the employer for proper business purposes\n- Dental, medical or health insurance reimbursements (if available to all full-time employees on equal terms)\n- Redundancy pay",
+    "word_count": 46
+  },
+  {
+    "id": "income_tax_employment_paye",
+    "title": "Income Tax — Employment Income & PAYE — Paye",
+    "source_path": "income_tax.income_from_employment.paye",
+    "text": "Income Tax — Employment Income & PAYE — Paye\n\nDescription: Pay As You Earn — tax deducted by the employer from the employee's income and remitted to GRA.\nFiling deadline: Monthly PAYE returns must be filed on or before the 15th day of the following month.\nWithholding obligation: The employer's obligation to withhold tax prevails over any other law or obligations.",
+    "word_count": 61
+  },
+  {
+    "id": "income_tax_employment_bonus_tax",
+    "title": "Income Tax — Employment Income & PAYE — Bonus tax",
+    "source_path": "income_tax.income_from_employment.bonus_tax",
+    "text": "Income Tax — Employment Income & PAYE — Bonus tax\n\nThreshold: Total bonus payments up to 15% of annual basic salary\nRate within threshold: 5%\nExcess treatment: Excess bonus above 15% of annual basic salary is added to employment income and taxed at the graduated rate.",
+    "word_count": 46
+  },
+  {
+    "id": "income_tax_employment_overtime",
+    "title": "Income Tax — Employment Income & PAYE — Overtime",
+    "source_path": "income_tax.income_from_employment.overtime",
+    "text": "Income Tax — Employment Income & PAYE — Overtime\n\nTaxable as employment income.",
+    "word_count": 13
+  },
+  {
+    "id": "income_tax_employment_non_resident_rate",
+    "title": "Income Tax — Employment Income & PAYE — Non resident rate",
+    "source_path": "income_tax.income_from_employment.non_resident_rate",
+    "text": "Income Tax — Employment Income & PAYE — Non resident rate\n\nNon-resident individuals are generally taxed at 25% on chargeable income.",
+    "word_count": 21
+  },
+  {
+    "id": "income_tax_business_included",
+    "title": "Income Tax — Business Income — Included",
+    "source_path": "income_tax.income_from_business.included",
+    "text": "Income Tax — Business Income — Included\n\n- Service fees\n- Consideration received in respect of trading stock\n- Gain from realisation of capital assets and liabilities of the business\n- Amount derived as consideration for accepting a restriction on business capacity\n- Gifts received in respect of the business\n- Any amount effectively connected with the business",
+    "word_count": 58
+  },
+  {
+    "id": "income_tax_business_excluded",
+    "title": "Income Tax — Business Income — Excluded",
+    "source_path": "income_tax.income_from_business.excluded",
+    "text": "Income Tax — Business Income — Excluded\n\n- Exempt amounts\n- Final withholding payments\n- Amounts already included in employment income",
+    "word_count": 21
+  },
+  {
+    "id": "income_tax_investment_included",
+    "title": "Income Tax — Investment Income — Included",
+    "source_path": "income_tax.income_from_investment.included",
+    "text": "Income Tax — Investment Income — Included\n\n- Dividends\n- Interest\n- Annuity\n- Natural resource payments\n- Rent and royalty\n- Gains from realisation of investment assets\n- Consideration for accepting restrictions on investment capacity\n- Gifts received in respect of the investment",
+    "word_count": 44
+  },
+  {
+    "id": "income_tax_investment_excluded",
+    "title": "Income Tax — Investment Income — Excluded",
+    "source_path": "income_tax.income_from_investment.excluded",
+    "text": "Income Tax — Investment Income — Excluded\n\n- Exempt amounts\n- Final withholding payments\n- Amounts already included in employment or business income",
+    "word_count": 23
+  },
+  {
+    "id": "income_tax_exempt_amounts",
+    "title": "Income Tax — Exempt Amounts",
+    "source_path": "income_tax.exempt_amounts",
+    "text": "Income Tax — Exempt Amounts\n\n- Salary, allowances, facilities, pension and gratuity of the President\n- Income directly connected to Government or local authority activities\n- Income of a non-commercial public corporation\n- Pension income\n- Income of a cocoa farmer from cocoa\n- Any other exemption granted by law",
+    "word_count": 50
+  },
+  {
+    "id": "income_tax_deductions_general_rule",
+    "title": "Income Tax — Deductions & Reliefs — General rule",
+    "source_path": "income_tax.deductions.general_rule",
+    "text": "Income Tax — Deductions & Reliefs — General rule\n\nAn expense is deductible if it is wholly, exclusively and necessarily incurred in the production of business or investment income.",
+    "word_count": 29
+  },
+  {
+    "id": "income_tax_deductions_capital_expenses",
+    "title": "Income Tax — Deductions & Reliefs — Capital expenses",
+    "source_path": "income_tax.deductions.capital_expenses",
+    "text": "Income Tax — Deductions & Reliefs — Capital expenses\n\nNot deductible. A capital expense is one that secures a benefit lasting more than 12 months.",
+    "word_count": 25
+  },
+  {
+    "id": "income_tax_deductions_allowable_deductions",
+    "title": "Income Tax — Deductions & Reliefs — Allowable deductions",
+    "source_path": "income_tax.deductions.allowable_deductions",
+    "text": "Income Tax — Deductions & Reliefs — Allowable deductions\n\n- Interest on borrowed money used in the production of income\n- Trading stock\n- Repairs and improvements (limited to 5% of the written-down value of the relevant pool of depreciable assets per year — s.12 Act 896)\n- Research and development expenses\n- Losses on realisation of assets and liabilities\n- Financial costs (under specified conditions)\n- Losses from business or investment\n- Donations/contributions to worthwhile causes approved by the Commissioner-General (s.100, Act 896)",
+    "word_count": 84
+  },
+  {
+    "id": "income_tax_deductions_repairs_and_improvements_limit",
+    "title": "Income Tax — Deductions & Reliefs — Repairs and improvements limit",
+    "source_path": "income_tax.deductions.repairs_and_improvements_limit",
+    "text": "Income Tax — Deductions & Reliefs — Repairs and improvements limit\n\nDeductible limit: 5% of the written-down value in the relevant pool of depreciable assets at end of year.\nExcess treatment: Excess not deductible is added to the depreciation basis of the pool.",
+    "word_count": 43
+  },
+  {
+    "id": "income_tax_deductions_personal_reliefs",
+    "title": "Income Tax — Deductions & Reliefs — Personal reliefs",
+    "source_path": "income_tax.deductions.personal_reliefs",
+    "text": "Income Tax — Deductions & Reliefs — Personal reliefs\n\nA resident individual is entitled to deduct specified personal reliefs from assessable income to arrive at chargeable income.",
+    "word_count": 27
+  },
+  {
+    "id": "income_tax_deductions_fresh_graduate_deduction",
+    "title": "Income Tax — Deductions & Reliefs — Fresh graduate deduction",
+    "source_path": "income_tax.deductions.fresh_graduate_deduction",
+    "text": "Income Tax — Deductions & Reliefs — Fresh graduate deduction\n\nDescription: Companies employing fresh graduates from tertiary institutions (first graduation) may deduct a percentage of their salaries and wages.\nRates: Between 10% and 50% of salaries/wages paid to eligible fresh graduates, depending on the percentage of fresh graduates in the workforce.\nSource: Paragraph 8, Sixth Schedule, Act 896",
+    "word_count": 58
+  },
+  {
+    "id": "income_tax_accounting_methods",
+    "title": "Income Tax — Accounting Methods",
+    "source_path": "income_tax.accounting_methods",
+    "text": "Income Tax — Accounting Methods\n\nIndividuals: Cash basis for employment and investment income.\nCompanies: Accrual basis.\nOther persons: Either cash or accrual basis — whichever most clearly reflects income.\nCash basis: Income derived when payment is received or made available; expense incurred when payment is made.\nAccrual basis: Income derived when receivable; expense incurred when payable.",
+    "word_count": 56
+  },
+  {
+    "id": "income_tax_corporate_rates",
+    "title": "Income Tax — Corporate Tax Rates",
+    "source_path": "income_tax.corporate_tax_rates",
+    "text": "Income Tax — Corporate Tax Rates\n\n- Category: General companies; Rate: 25%\n- Category: Hotel industry (principally); Rate: 22%\n- Category: Export of non-traditional goods; Rate: 8%\n- Category: Financial institution income from loan to farming enterprise; Rate: 20%",
+    "word_count": 39
+  },
+  {
+    "id": "income_tax_young_entrepreneur_relief_eligibility",
+    "title": "Income Tax — Young Entrepreneur / MSME Relief — Eligibility",
+    "source_path": "income_tax.msme_young_entrepreneur_relief.eligibility",
+    "text": "Income Tax — Young Entrepreneur / MSME Relief — Eligibility\n\nEntrepreneur not more than 35 years of age",
+    "word_count": 18
+  },
+  {
+    "id": "income_tax_young_entrepreneur_relief_qualifying_sectors",
+    "title": "Income Tax — Young Entrepreneur / MSME Relief — Qualifying sectors",
+    "source_path": "income_tax.msme_young_entrepreneur_relief.qualifying_sectors",
+    "text": "Income Tax — Young Entrepreneur / MSME Relief — Qualifying sectors\n\n- Manufacturing\n- ICT\n- Agro-processing\n- Energy production\n- Waste processing\n- Tourism and creative arts\n- Horticulture and medicinal plants",
+    "word_count": 33
+  },
+  {
+    "id": "income_tax_young_entrepreneur_relief_tax_exemption_period",
+    "title": "Income Tax — Young Entrepreneur / MSME Relief — Tax exemption period",
+    "source_path": "income_tax.msme_young_entrepreneur_relief.tax_exemption_period",
+    "text": "Income Tax — Young Entrepreneur / MSME Relief — Tax exemption period\n\n5 years from commencement",
+    "word_count": 16
+  },
+  {
+    "id": "income_tax_young_entrepreneur_relief_post_exemption_rates",
+    "title": "Income Tax — Young Entrepreneur / MSME Relief — Post exemption rates",
+    "source_path": "income_tax.msme_young_entrepreneur_relief.post_exemption_rates",
+    "text": "Income Tax — Young Entrepreneur / MSME Relief — Post exemption rates\n\n- Location: Accra or Tema; Rate: 15%\n- Location: Other regional capitals (excluding former three Northern Regions); Rate: 12.5%\n- Location: Outside other regional capitals; Rate: 10%\n- Location: Former three Northern Regions; Rate: 5%",
+    "word_count": 47
+  },
+  {
+    "id": "income_tax_young_entrepreneur_relief_loss_carry_forward",
+    "title": "Income Tax — Young Entrepreneur / MSME Relief — Loss carry forward",
+    "source_path": "income_tax.msme_young_entrepreneur_relief.loss_carry_forward",
+    "text": "Income Tax — Young Entrepreneur / MSME Relief — Loss carry forward\n\nUnrelieved losses may be carried forward for 5 basis periods.",
+    "word_count": 22
+  },
+  {
+    "id": "income_tax_business_structure_sole_proprietorship",
+    "title": "Income Tax — Business Structure Tax Treatment — Sole proprietorship",
+    "source_path": "income_tax.business_structure_tax_treatment.sole_proprietorship",
+    "text": "Income Tax — Business Structure Tax Treatment — Sole proprietorship\n\nTaxed as personal income of the individual.",
+    "word_count": 17
+  },
+  {
+    "id": "income_tax_business_structure_company",
+    "title": "Income Tax — Business Structure Tax Treatment — Company",
+    "source_path": "income_tax.business_structure_tax_treatment.company",
+    "text": "Income Tax — Business Structure Tax Treatment — Company\n\nTaxed separately from its shareholders. Both the company and directors are taxed separately.",
+    "word_count": 22
+  },
+  {
+    "id": "income_tax_business_structure_partnership",
+    "title": "Income Tax — Business Structure Tax Treatment — Partnership",
+    "source_path": "income_tax.business_structure_tax_treatment.partnership",
+    "text": "Income Tax — Business Structure Tax Treatment — Partnership\n\nThe partnership entity does NOT pay income tax. Partners are taxed as individuals on their share of partnership income.",
+    "word_count": 28
+  },
+  {
+    "id": "income_tax_business_structure_trust",
+    "title": "Income Tax — Business Structure Tax Treatment — Trust",
+    "source_path": "income_tax.business_structure_tax_treatment.trust",
+    "text": "Income Tax — Business Structure Tax Treatment — Trust\n\nTaxed separately from beneficiaries. Distribution of a resident trust is tax-exempt in the hands of the beneficiary.",
+    "word_count": 26
+  },
+  {
+    "id": "income_tax_withholding_overview",
+    "title": "Income Tax — Withholding Tax — Overview",
+    "source_path": "income_tax.withholding_tax.overview",
+    "text": "Income Tax — Withholding Tax — Overview\n\nA withholding agent must file and pay withheld tax to GRA within 15 days after the end of the month.",
+    "word_count": 27
+  },
+  {
+    "id": "income_tax_withholding_employer_withholding",
+    "title": "Income Tax — Withholding Tax — Employer withholding",
+    "source_path": "income_tax.withholding_tax.employer_withholding",
+    "text": "Income Tax — Withholding Tax — Employer withholding\n\nEmployer must withhold PAYE from employee income. This obligation prevails over any other law.",
+    "word_count": 22
+  },
+  {
+    "id": "income_tax_withholding_investment_returns_withholding",
+    "title": "Income Tax — Withholding Tax — Investment returns withholding",
+    "source_path": "income_tax.withholding_tax.investment_returns_withholding",
+    "text": "Income Tax — Withholding Tax — Investment returns withholding\n\nApplies to:\n  - Dividends\n  - Interest\n  - Rent\n  - Royalties\n  - Natural resource payments\nExemptions:\n  - Employee income\n  - Payments by individuals not in business\n  - Interest paid to resident financial institutions\n  - Exempt amounts",
+    "word_count": 44
+  },
+  {
+    "id": "income_tax_withholding_supply_of_goods_services",
+    "title": "Income Tax — Withholding Tax — Supply of goods services",
+    "source_path": "income_tax.withholding_tax.supply_of_goods_services",
+    "text": "Income Tax — Withholding Tax — Supply of goods services\n\nA resident entity must withhold tax on payments to another resident person for supply of goods, works, or services under a contract.",
+    "word_count": 32
+  },
+  {
+    "id": "income_tax_withholding_withholding_certificate",
+    "title": "Income Tax — Withholding Tax — Withholding certificate",
+    "source_path": "income_tax.withholding_tax.withholding_certificate",
+    "text": "Income Tax — Withholding Tax — Withholding certificate\n\nA withholding agent must issue a withholding certificate to the withholdee.",
+    "word_count": 19
+  },
+  {
+    "id": "income_tax_withholding_final_withholding_payments",
+    "title": "Income Tax — Withholding Tax — Final withholding payments",
+    "source_path": "income_tax.withholding_tax.final_withholding_payments",
+    "text": "Income Tax — Withholding Tax — Final withholding payments\n\n- Dividends paid by a resident company\n- Rent paid by a resident individual under a lease of land or building\n- Payments to non-resident persons (other than through a Ghanaian permanent establishment)\n- Payments to subcontractors under petroleum operations\n- Payments for examination, part-time teaching, supervising examinations, endorsement fees",
+    "word_count": 59
+  },
+  {
+    "id": "income_tax_anti_avoidance",
+    "title": "Income Tax — Thin Capitalisation & Anti-Avoidance",
+    "source_path": "income_tax.thin_capitalisation, income_tax.anti_avoidance",
+    "text": "Income Tax — Thin Capitalisation & Anti-Avoidance\n\nRule: Debt-to-equity ratio must not exceed 3:1.\nException: Does not apply to resident financial institutions.\nImpact: Interest payments are generally deductible, but the 3:1 cap limits this benefit to prevent excessive debt funding.\n\nGeneral rule: Commissioner-General may re-characterise or disregard any arrangement that is fictitious, lacks substantial economic effect, or whose form does not reflect its substance (s.34, Act 896).\nIncome splitting: Commissioner-General may prevent artificial income splitting between persons to reduce tax.",
+    "word_count": 80
+  },
+  {
+    "id": "income_tax_returns_filing_income_tax_return_deadline",
+    "title": "Income Tax — Returns & Filing — Income tax return deadline",
+    "source_path": "income_tax.tax_returns_and_filing.income_tax_return_deadline",
+    "text": "Income Tax — Returns & Filing — Income tax return deadline\n\nNot later than 4 months after the end of the year of assessment.",
+    "word_count": 24
+  },
+  {
+    "id": "income_tax_returns_filing_what_returns_must_include",
+    "title": "Income Tax — Returns & Filing — What returns must include",
+    "source_path": "income_tax.tax_returns_and_filing.what_returns_must_include",
+    "text": "Income Tax — Returns & Filing — What returns must include\n\n- Assessable income from each employment, business, and investment\n- Source of each income\n- Chargeable income\n- Tax payable\n- Tax paid by withholding, instalment, or assessment\n- Remainder of tax to be paid",
+    "word_count": 46
+  },
+  {
+    "id": "income_tax_returns_filing_attachments_required",
+    "title": "Income Tax — Returns & Filing — Attachments required",
+    "source_path": "income_tax.tax_returns_and_filing.attachments_required",
+    "text": "Income Tax — Returns & Filing — Attachments required\n\n- Withholding certificates in the taxpayer's possession\n- Any other information required by the Commissioner-General",
+    "word_count": 24
+  },
+  {
+    "id": "income_tax_returns_filing_who_is_exempt_from_filing",
+    "title": "Income Tax — Returns & Filing — Who is exempt from filing",
+    "source_path": "income_tax.tax_returns_and_filing.who_is_exempt_from_filing",
+    "text": "Income Tax — Returns & Filing — Who is exempt from filing\n\n- Resident individual whose sole income is from employment (unless served a written notice by Commissioner-General)\n- Non-resident person with no chargeable income in Ghana",
+    "word_count": 37
+  },
+  {
+    "id": "income_tax_returns_filing_extension_of_time",
+    "title": "Income Tax — Returns & Filing — Extension of time",
+    "source_path": "income_tax.tax_returns_and_filing.extension_of_time",
+    "text": "Income Tax — Returns & Filing — Extension of time\n\nTaxpayer may apply for extension of up to 60 days from the original due date (s.30, Act 915).",
+    "word_count": 28
+  },
+  {
+    "id": "income_tax_returns_filing_instalment_payments",
+    "title": "Income Tax — Returns & Filing — Instalment payments",
+    "source_path": "income_tax.tax_returns_and_filing.instalment_payments",
+    "text": "Income Tax — Returns & Filing — Instalment payments\n\nTax may be paid by quarterly instalments. An instalment payer must file estimated tax by the date of the first instalment.",
+    "word_count": 30
+  },
+  {
+    "id": "income_tax_returns_filing_authorisation_for_entities",
+    "title": "Income Tax — Returns & Filing — Authorisation for entities",
+    "source_path": "income_tax.tax_returns_and_filing.authorisation_for_entities",
+    "text": "Income Tax — Returns & Filing — Authorisation for entities\n\nFor entities, a duly authorised manager must sign returns. If prepared by a consultant, the consultant must also sign with relevant certifications (s.29, Act 915).",
+    "word_count": 35
+  },
+  {
+    "id": "income_tax_returns_filing_change_of_accounting_year",
+    "title": "Income Tax — Returns & Filing — Change of accounting year",
+    "source_path": "income_tax.tax_returns_and_filing.change_of_accounting_year",
+    "text": "Income Tax — Returns & Filing — Change of accounting year\n\nAllowed once in the life of the company, with approval of the Commissioner-General. This alters the timing of tax payments (s.18, Act 896).",
+    "word_count": 34
+  },
+  {
+    "id": "income_tax_planning_strategies",
+    "title": "Income Tax — Tax Planning Strategies",
+    "source_path": "income_tax.tax_planning_strategies",
+    "text": "Income Tax — Tax Planning Strategies\n\nNote: Tax planning is the forecasting of tax liability and identifying lawful ways to reduce it. It must not cross into tax evasion.\nStrategies:\n  - Strategy: Claim all allowable deductions; Detail: Ensure all expenses wholly, exclusively, and necessarily incurred in producing income are captured and receipted (s.9, Act 896).\n  - Strategy: Claim donations to worthwhile causes; Detail: Donations approved by the Commissioner-General are allowable deductions. COVID-19 donations were specifically allowed (s.100, Act 896).\n  - Strategy: Fresh graduate workforce deduction; Detail: Companies with fresh graduates in the workforce may deduct 10–50% of their salaries as an additional deduction.\n  - Strategy: Self-audit and tax refunds; Detail: Conducting a self-audit may identify overpayments eligible for refund or set-off against other tax liabilities (ss.66–68, Act 915).\n  - Strategy: Debt funding within thin capitalisation limits; Detail: During profit downturns, injecting funds as loans (within 3:1 debt-to-equity ratio) allows interest deductions.\n  - Strategy: Maximise repair deductions; Detail: Ensure qualifying repair and improvement expenses are properly documented to claim the 5% annual deduction limit.\n  - Strategy: Young entrepreneur exemption; Detail: Entrepreneurs under 35 in qualifying sectors benefit from 5-year tax exemption followed by reduced rates.\n  - Strategy: Instalment payment scheduling; Detail: Pay taxes on instalment to manage cash flow while staying compliant.",
+    "word_count": 211
+  },
+  {
+    "id": "vat_overview",
+    "title": "VAT — Overview",
+    "source_path": "vat.overview",
+    "text": "VAT — Overview\n\nDescription: VAT is charged on the supply of goods or services in Ghana, and on the import of goods or services, other than those exempted.\nStandard rate: 12.5% of the value of the taxable supply or import.\nFlat rate for retailers wholesalers: 3% — applicable to retailers and wholesalers of goods. Does NOT apply to supply of power, heat, refrigeration, or ventilation.\nNhil: National Health Insurance Levy — charged on the same taxable supply.\nGetfund levy: Ghana Education Trust Fund Levy — charged on the same taxable supply.\nWho pays: The taxable person making the supply, an importer of goods, or the recipient of imported services.",
+    "word_count": 109
+  },
+  {
+    "id": "vat_registration_mandatory_threshold_12_months",
+    "title": "VAT — Registration — Mandatory threshold 12 months",
+    "source_path": "vat.registration.mandatory_threshold_12_months",
+    "text": "VAT — Registration — Mandatory threshold 12 months\n\nIf taxable supplies exceed GHS 200,000 in any 12-month period, the person must register. Application must be filed within 30 days after the end of the 12 months.",
+    "word_count": 36
+  },
+  {
+    "id": "vat_registration_mandatory_threshold_3_months",
+    "title": "VAT — Registration — Mandatory threshold 3 months",
+    "source_path": "vat.registration.mandatory_threshold_3_months",
+    "text": "VAT — Registration — Mandatory threshold 3 months\n\nIf taxable supplies exceed GHS 50,000 in any 3-month period AND there are reasonable grounds to expect total supplies to exceed GHS 200,000 in 12 months.",
+    "word_count": 34
+  },
+  {
+    "id": "vat_registration_voluntary_registration",
+    "title": "VAT — Registration — Voluntary registration",
+    "source_path": "vat.registration.voluntary_registration",
+    "text": "VAT — Registration — Voluntary registration\n\nA person may voluntarily apply to register if they have a fixed place of business, keep proper accounting records, and submit reliable tax returns.",
+    "word_count": 30
+  },
+  {
+    "id": "vat_registration_compulsory_registration",
+    "title": "VAT — Registration — Compulsory registration",
+    "source_path": "vat.registration.compulsory_registration",
+    "text": "VAT — Registration — Compulsory registration\n\nWhere a person required to register fails to do so, the Commissioner-General shall register them.",
+    "word_count": 21
+  },
+  {
+    "id": "vat_registration_penalty_for_non_registration",
+    "title": "VAT — Registration — Penalty for non registration",
+    "source_path": "vat.registration.penalty_for_non_registration",
+    "text": "VAT — Registration — Penalty for non registration\n\nUp to two times the amount of VAT on taxable supplies from the date the person should have registered.",
+    "word_count": 27
+  },
+  {
+    "id": "vat_registration_cancellation",
+    "title": "VAT — Registration — Cancellation",
+    "source_path": "vat.registration.cancellation",
+    "text": "VAT — Registration — Cancellation\n\nVoluntary cancellation eligibility: Only after 2 years from date of voluntary registration.\nGrounds for cancellation by cg:\n  - Person no longer exists\n  - Not carrying on a taxable activity\n  - Not required or entitled to be registered\n  - No fixed place of business\n  - Has not kept proper accounting records\n  - Has not submitted regular and reliable tax returns",
+    "word_count": 64
+  },
+  {
+    "id": "vat_registration_notice_of_change",
+    "title": "VAT — Registration — Notice of change",
+    "source_path": "vat.registration.notice_of_change",
+    "text": "VAT — Registration — Notice of change\n\nA taxable person must notify the Commissioner-General in writing within 14 days of ceasing to operate, selling, relocating, or changing ownership.",
+    "word_count": 28
+  },
+  {
+    "id": "vat_taxable_supplies_taxable_supply",
+    "title": "VAT — Taxable Supplies — Taxable supply",
+    "source_path": "vat.taxable_supplies.taxable_supply",
+    "text": "VAT — Taxable Supplies — Taxable supply\n\nA supply of goods or services made by a taxable person for consideration in the course of a taxable activity.",
+    "word_count": 27
+  },
+  {
+    "id": "vat_taxable_supplies_exempt_supply",
+    "title": "VAT — Taxable Supplies — Exempt supply",
+    "source_path": "vat.taxable_supplies.exempt_supply",
+    "text": "VAT — Taxable Supplies — Exempt supply\n\nSupplies listed in the First Schedule of Act 870. Not subject to VAT.",
+    "word_count": 20
+  },
+  {
+    "id": "vat_taxable_supplies_zero_rated_supply",
+    "title": "VAT — Taxable Supplies — Zero rated supply",
+    "source_path": "vat.taxable_supplies.zero_rated_supply",
+    "text": "VAT — Taxable Supplies — Zero rated supply\n\nSupplies listed in the Second Schedule of Act 870. Taxed at 0% — taxable person may still claim input tax credits.",
+    "word_count": 29
+  },
+  {
+    "id": "vat_taxable_supplies_exempt_import",
+    "title": "VAT — Taxable Supplies — Exempt import",
+    "source_path": "vat.taxable_supplies.exempt_import",
+    "text": "VAT — Taxable Supplies — Exempt import\n\nImports exempt under the First Schedule of Act 870 or classified as exempt in the Customs Tariff Schedule.",
+    "word_count": 25
+  },
+  {
+    "id": "vat_taxable_supplies_relief_supply",
+    "title": "VAT — Taxable Supplies — Relief supply",
+    "source_path": "vat.taxable_supplies.relief_supply",
+    "text": "VAT — Taxable Supplies — Relief supply\n\nRelief from tax may be granted to persons specified under the Third Schedule of Act 870.",
+    "word_count": 23
+  },
+  {
+    "id": "vat_withholding_withholding_agents",
+    "title": "VAT — Withholding — Withholding agents",
+    "source_path": "vat.vat_withholding.withholding_agents",
+    "text": "VAT — Withholding — Withholding agents\n\nAppointed by the Commissioner-General.",
+    "word_count": 10
+  },
+  {
+    "id": "vat_withholding_withholding_rate",
+    "title": "VAT — Withholding — Withholding rate",
+    "source_path": "vat.vat_withholding.withholding_rate",
+    "text": "VAT — Withholding — Withholding rate\n\n7% of the taxable output value on standard-rated supplies.",
+    "word_count": 15
+  },
+  {
+    "id": "vat_withholding_withholding_certificate",
+    "title": "VAT — Withholding — Withholding certificate",
+    "source_path": "vat.vat_withholding.withholding_certificate",
+    "text": "VAT — Withholding — Withholding certificate\n\nA withholding VAT credit certificate must be issued at the time of payment.",
+    "word_count": 19
+  },
+  {
+    "id": "vat_withholding_filing_deadline",
+    "title": "VAT — Withholding — Filing deadline",
+    "source_path": "vat.vat_withholding.filing_deadline",
+    "text": "VAT — Withholding — Filing deadline\n\nVAT withholding returns must be filed by the 15th day of the following month.",
+    "word_count": 20
+  },
+  {
+    "id": "vat_input_tax_deduction_general_rule",
+    "title": "VAT — Input Tax Deduction — General rule",
+    "source_path": "vat.input_tax_deduction.general_rule",
+    "text": "VAT — Input Tax Deduction — General rule\n\nA taxable person may deduct input tax on goods and services purchased and used wholly, exclusively, and necessarily in the taxable activity.",
+    "word_count": 30
+  },
+  {
+    "id": "vat_input_tax_deduction_not_allowed_for",
+    "title": "VAT — Input Tax Deduction — Not allowed for",
+    "source_path": "vat.input_tax_deduction.not_allowed_for",
+    "text": "VAT — Input Tax Deduction — Not allowed for\n\n- Exempt supplies\n- Entertainment, restaurant meals, hotel expenses (unless the taxable person's activity IS entertainment)\n- Membership fees to sporting, social, or recreational clubs",
+    "word_count": 34
+  },
+  {
+    "id": "vat_input_tax_deduction_time_limit",
+    "title": "VAT — Input Tax Deduction — Time limit",
+    "source_path": "vat.input_tax_deduction.time_limit",
+    "text": "VAT — Input Tax Deduction — Time limit\n\nInput tax deduction cannot be made more than once, or after 6 months from the date the deduction accrued.",
+    "word_count": 27
+  },
+  {
+    "id": "vat_input_tax_deduction_mixed_supplies_rule",
+    "title": "VAT — Input Tax Deduction — Mixed supplies rule",
+    "source_path": "vat.input_tax_deduction.mixed_supplies_rule",
+    "text": "VAT — Input Tax Deduction — Mixed supplies rule\n\nWhere a taxable person makes both taxable and exempt supplies: deduct only the proportion of input tax attributable to taxable supplies. If taxable supplies are less than 5% of total, no input tax deduction allowed. If taxable supplies exceed 95% of total, full input tax deduction allowed.",
+    "word_count": 56
+  },
+  {
+    "id": "vat_input_tax_deduction_newly_registered_persons",
+    "title": "VAT — Input Tax Deduction — Newly registered persons",
+    "source_path": "vat.input_tax_deduction.newly_registered_persons",
+    "text": "VAT — Input Tax Deduction — Newly registered persons\n\nGoods supply or import: May claim input tax for goods acquired within 4 months before registration date.\nCapital goods: May claim input tax for capital goods acquired within 6 months before registration date.",
+    "word_count": 42
+  },
+  {
+    "id": "vat_input_tax_deduction_flat_rate_scheme",
+    "title": "VAT — Input Tax Deduction — Flat rate scheme",
+    "source_path": "vat.input_tax_deduction.flat_rate_scheme",
+    "text": "VAT — Input Tax Deduction — Flat rate scheme\n\nTaxable persons under the 3% VAT flat rate scheme do NOT qualify for input tax deductions on goods.",
+    "word_count": 27
+  },
+  {
+    "id": "vat_invoice_requirements_obligation",
+    "title": "VAT — Tax Invoice Requirements — Obligation",
+    "source_path": "vat.tax_invoice_requirements.obligation",
+    "text": "VAT — Tax Invoice Requirements — Obligation\n\nA taxable person must issue a tax invoice to the recipient on every taxable supply, and retain a copy.",
+    "word_count": 26
+  },
+  {
+    "id": "vat_invoice_requirements_offences",
+    "title": "VAT — Tax Invoice Requirements — Offences",
+    "source_path": "vat.tax_invoice_requirements.offences",
+    "text": "VAT — Tax Invoice Requirements — Offences\n\n- Issuing a false tax invoice or sales receipt\n- Using a false TIN\n- Failing to issue a tax invoice",
+    "word_count": 28
+  },
+  {
+    "id": "vat_invoice_requirements_penalty",
+    "title": "VAT — Tax Invoice Requirements — Penalty",
+    "source_path": "vat.tax_invoice_requirements.penalty",
+    "text": "VAT — Tax Invoice Requirements — Penalty\n\nFine plus imprisonment and a penalty of up to GHS 500 or three times the tax involved.",
+    "word_count": 24
+  },
+  {
+    "id": "vat_inclusive_pricing",
+    "title": "VAT — Tax-Inclusive Pricing",
+    "source_path": "vat.tax_inclusive_pricing",
+    "text": "VAT — Tax-Inclusive Pricing\n\nAll prices advertised or quoted for taxable supplies must include VAT. If excluded, it must be stated separately.",
+    "word_count": 22
+  },
+  {
+    "id": "vat_filing_and_payment_tax_return_deadline",
+    "title": "VAT — Filing & Payment — Tax return deadline",
+    "source_path": "vat.filing_and_payment.tax_return_deadline",
+    "text": "VAT — Filing & Payment — Tax return deadline\n\nLast working day of the month immediately following the month to which the return relates.",
+    "word_count": 24
+  },
+  {
+    "id": "vat_filing_and_payment_payment_deadline",
+    "title": "VAT — Filing & Payment — Payment deadline",
+    "source_path": "vat.filing_and_payment.payment_deadline",
+    "text": "VAT — Filing & Payment — Payment deadline\n\nSame date as return submission deadline.",
+    "word_count": 14
+  },
+  {
+    "id": "vat_filing_and_payment_imported_services_deadline",
+    "title": "VAT — Filing & Payment — Imported services deadline",
+    "source_path": "vat.filing_and_payment.imported_services_deadline",
+    "text": "VAT — Filing & Payment — Imported services deadline\n\nWithin 21 days after the tax period in which the services were imported.",
+    "word_count": 22
+  },
+  {
+    "id": "vat_filing_and_payment_late_filing_penalty",
+    "title": "VAT — Filing & Payment — Late filing penalty",
+    "source_path": "vat.filing_and_payment.late_filing_penalty",
+    "text": "VAT — Filing & Payment — Late filing penalty\n\nGHS 500 fixed penalty plus GHS 10 per day for each day after the due date.",
+    "word_count": 25
+  },
+  {
+    "id": "vat_filing_and_payment_evasion",
+    "title": "VAT — Filing & Payment — Evasion",
+    "source_path": "vat.filing_and_payment.evasion",
+    "text": "VAT — Filing & Payment — Evasion\n\nA person who knowingly evades tax commits an offence liable to a fine or imprisonment or both.",
+    "word_count": 24
+  },
+  {
+    "id": "vat_filing_and_payment_sealing_of_premises",
+    "title": "VAT — Filing & Payment — Sealing of premises",
+    "source_path": "vat.filing_and_payment.sealing_of_premises",
+    "text": "VAT — Filing & Payment — Sealing of premises\n\nCommissioner-General may obtain a court order to seal off premises of a taxpayer who fails to issue tax invoices, improperly claims refunds, fails to file returns, or fails to pay tax.",
+    "word_count": 40
+  },
+  {
+    "id": "free_zones_overview",
+    "title": "Free Zones — Overview & Eligibility",
+    "source_path": "free_zones.overview, free_zones.governing_body, free_zones.who_can_operate, free_zones.restriction",
+    "text": "Free Zones — Overview & Eligibility\n\nFree zones are designated areas established to promote economic development. Enterprises in free zones operate under a special fiscal and regulatory regime.\n\nFree Zones Board — chaired by the Minister of Trade and Industry.\n\nMust be incorporated under the Companies Act (Act 179) or registered under the Private Partnership Act (Act 152). Must hold a valid license from the Free Zones Board.\n\nFree zone enterprises shall NOT produce environmentally hazardous goods.",
+    "word_count": 77
+  },
+  {
+    "id": "free_zones_permitted_activities",
+    "title": "Free Zones — Permitted Activities",
+    "source_path": "free_zones.permitted_activities",
+    "text": "Free Zones — Permitted Activities\n\n- Production of goods and services for export\n- Storage, warehousing, packing, processing, manufacturing\n- Information processing, software development, computer-aided services\n- Financial, banking, insurance, commercial, advisory, repair and maintenance services\n- Any other activity relevant to the license",
+    "word_count": 44
+  },
+  {
+    "id": "free_zones_fiscal_incentives_income_tax_exemption",
+    "title": "Free Zones — Fiscal Incentives — Income tax exemption",
+    "source_path": "free_zones.fiscal_incentives.income_tax_exemption",
+    "text": "Free Zones — Fiscal Incentives — Income tax exemption\n\nExempt from income tax on profits for the first 10 years from commencement of operations.",
+    "word_count": 24
+  },
+  {
+    "id": "free_zones_fiscal_incentives_income_tax_after_10_years",
+    "title": "Free Zones — Fiscal Incentives — Income tax after 10 years",
+    "source_path": "free_zones.fiscal_incentives.income_tax_after_10_years",
+    "text": "Free Zones — Fiscal Incentives — Income tax after 10 years\n\nMaximum rate of 8%.",
+    "word_count": 15
+  },
+  {
+    "id": "free_zones_fiscal_incentives_dividend_withholding_tax",
+    "title": "Free Zones — Fiscal Incentives — Dividend withholding tax",
+    "source_path": "free_zones.fiscal_incentives.dividend_withholding_tax",
+    "text": "Free Zones — Fiscal Incentives — Dividend withholding tax\n\nShareholders are exempt from withholding taxes on dividends arising from free zone investments.",
+    "word_count": 22
+  },
+  {
+    "id": "free_zones_fiscal_incentives_import_duties",
+    "title": "Free Zones — Fiscal Incentives — Import duties",
+    "source_path": "free_zones.fiscal_incentives.import_duties",
+    "text": "Free Zones — Fiscal Incentives — Import duties\n\nImports by free zone developers, sub-contractors, or enterprises into a free zone are exempt from direct and indirect taxes and duties.",
+    "word_count": 29
+  },
+  {
+    "id": "free_zones_fiscal_incentives_foreign_investment",
+    "title": "Free Zones — Fiscal Incentives — Foreign investment",
+    "source_path": "free_zones.fiscal_incentives.foreign_investment",
+    "text": "Free Zones — Fiscal Incentives — Foreign investment\n\nForeign investors may hold up to 100% of shares in a free zone enterprise. Domestic investors similarly may hold up to 100%.",
+    "word_count": 30
+  },
+  {
+    "id": "free_zones_domestic_sales",
+    "title": "Free Zones — Sales to Domestic Market",
+    "source_path": "free_zones.sales_to_domestic_market",
+    "text": "Free Zones — Sales to Domestic Market\n\nLimit: A free zone enterprise may sell up to 30% of annual production to the national customs territory.\nTreatment: Such sales are treated as imports and subject to applicable import duties and taxes.",
+    "word_count": 40
+  },
+  {
+    "id": "free_zones_investor_guarantees_non_expropriation",
+    "title": "Free Zones — Investor Guarantees — Non expropriation",
+    "source_path": "free_zones.guarantees_for_investors.non_expropriation",
+    "text": "Free Zones — Investor Guarantees — Non expropriation\n\nGovernment cannot nationalise or expropriate free zone enterprises except in the national interest and with payment of fair compensation.",
+    "word_count": 27
+  },
+  {
+    "id": "free_zones_investor_guarantees_currency_transfer",
+    "title": "Free Zones — Investor Guarantees — Currency transfer",
+    "source_path": "free_zones.guarantees_for_investors.currency_transfer",
+    "text": "Free Zones — Investor Guarantees — Currency transfer\n\nUnconditional transfer of dividends, net profits, loan servicing payments, technology transfer fees, and sale/liquidation proceeds through authorised dealer banks.",
+    "word_count": 27
+  },
+  {
+    "id": "free_zones_investor_guarantees_foreign_currency_accounts",
+    "title": "Free Zones — Investor Guarantees — Foreign currency accounts",
+    "source_path": "free_zones.guarantees_for_investors.foreign_currency_accounts",
+    "text": "Free Zones — Investor Guarantees — Foreign currency accounts\n\nFree zone enterprises may operate foreign currency accounts with banks in Ghana.",
+    "word_count": 21
+  },
+  {
+    "id": "free_zones_investor_guarantees_dispute_resolution",
+    "title": "Free Zones — Investor Guarantees — Dispute resolution",
+    "source_path": "free_zones.guarantees_for_investors.dispute_resolution",
+    "text": "Free Zones — Investor Guarantees — Dispute resolution\n\nDisputes between licensees and Government are resolved through mutual discussion or arbitration (UNCITRAL rules or bilateral investment treaties).",
+    "word_count": 26
+  },
+  {
+    "id": "free_zones_employment",
+    "title": "Free Zones — Employment",
+    "source_path": "free_zones.employment",
+    "text": "Free Zones — Employment\n\nFreedom to negotiate: Free zone enterprises may freely negotiate employment contracts, wage scales, working hours, and dismissal procedures consistent with ILO Conventions.\nForeign employees: Require work and resident permits. Subject to double taxation treaty provisions — may be exempt from Ghana income tax on free zone earnings.",
+    "word_count": 51
+  },
+  {
+    "id": "free_zones_licensing_application",
+    "title": "Free Zones — Licensing — Application",
+    "source_path": "free_zones.licensing.application",
+    "text": "Free Zones — Licensing — Application\n\nIn writing to the Free Zones Board Secretariat, specifying zone and activities.",
+    "word_count": 18
+  },
+  {
+    "id": "free_zones_licensing_response_time",
+    "title": "Free Zones — Licensing — Response time",
+    "source_path": "free_zones.licensing.response_time",
+    "text": "Free Zones — Licensing — Response time\n\nBoard must respond within 28 working days.",
+    "word_count": 14
+  },
+  {
+    "id": "free_zones_licensing_license_transfer",
+    "title": "Free Zones — Licensing — License transfer",
+    "source_path": "free_zones.licensing.license_transfer",
+    "text": "Free Zones — Licensing — License transfer\n\nNo license may be transferred to another person without prior Board approval.",
+    "word_count": 19
+  },
+  {
+    "id": "free_zones_licensing_revocation",
+    "title": "Free Zones — Licensing — Revocation",
+    "source_path": "free_zones.licensing.revocation",
+    "text": "Free Zones — Licensing — Revocation\n\nBoard may revoke license for breach of conditions, with at least 14 working days' notice.",
+    "word_count": 21
+  },
+  {
+    "id": "taxpayer_rights_and_obligations_rights",
+    "title": "Taxpayer Rights & Obligations — Rights",
+    "source_path": "taxpayer_rights_and_obligations.rights",
+    "text": "Taxpayer Rights & Obligations — Rights\n\nGRA publishes taxpayer rights and obligations guidance. Taxpayers have the right to appeal assessments.",
+    "word_count": 20
+  },
+  {
+    "id": "taxpayer_rights_and_obligations_tax_avoidance_vs_evasion",
+    "title": "Taxpayer Rights & Obligations — Tax avoidance vs evasion",
+    "source_path": "taxpayer_rights_and_obligations.tax_avoidance_vs_evasion",
+    "text": "Taxpayer Rights & Obligations — Tax avoidance vs evasion\n\nAvoidance: Legal arrangement of affairs to reduce tax liability. Permitted, subject to the general anti-avoidance rule.\nEvasion: Knowingly evading tax payable. A criminal offence liable to fines and/or imprisonment.",
+    "word_count": 38
+  },
+  {
+    "id": "taxpayer_rights_and_obligations_assessment_correction",
+    "title": "Taxpayer Rights & Obligations — Assessment correction",
+    "source_path": "taxpayer_rights_and_obligations.assessment_correction",
+    "text": "Taxpayer Rights & Obligations — Assessment correction\n\nThe Commissioner-General may make an assessment if there is reasonable belief tax may not be paid or a return is incorrect.",
+    "word_count": 28
+  },
+  {
+    "id": "taxpayer_rights_and_obligations_self_assessment",
+    "title": "Taxpayer Rights & Obligations — Self assessment",
+    "source_path": "taxpayer_rights_and_obligations.self_assessment",
+    "text": "Taxpayer Rights & Obligations — Self assessment\n\nTaxpayers are expected to self-assess and file accurate returns.",
+    "word_count": 16
+  },
+  {
+    "id": "taxpayer_rights_and_obligations_registration_obligation",
+    "title": "Taxpayer Rights & Obligations — Registration obligation",
+    "source_path": "taxpayer_rights_and_obligations.registration_obligation",
+    "text": "Taxpayer Rights & Obligations — Registration obligation\n\nAll persons earning chargeable income, or making taxable supplies above the VAT threshold, must register with GRA.",
+    "word_count": 24
+  },
+  {
+    "id": "key_deadline_1",
+    "title": "Deadline — Monthly PAYE return and payment",
+    "source_path": "key_deadlines[0]",
+    "text": "Ghana tax filing deadline — Monthly PAYE return and payment.\nDeadline: 15th day of the following month.\nLegislation: Act 896.",
+    "word_count": 20
+  },
+  {
+    "id": "key_deadline_2",
+    "title": "Deadline — VAT, NHIL, GETFund Levy return and payment",
+    "source_path": "key_deadlines[1]",
+    "text": "Ghana tax filing deadline — VAT, NHIL, GETFund Levy return and payment.\nDeadline: Last working day of the following month.\nLegislation: s.52, Act 870.",
+    "word_count": 24
+  },
+  {
+    "id": "key_deadline_3",
+    "title": "Deadline — VAT on imported services",
+    "source_path": "key_deadlines[2]",
+    "text": "Ghana tax filing deadline — VAT on imported services.\nDeadline: Within 21 days after the tax period in which services were imported.\nLegislation: Act 870.",
+    "word_count": 25
+  },
+  {
+    "id": "key_deadline_4",
+    "title": "Deadline — VAT Withholding Agent return",
+    "source_path": "key_deadlines[3]",
+    "text": "Ghana tax filing deadline — VAT Withholding Agent return.\nDeadline: 15th day of the following month.\nLegislation: Act 870.",
+    "word_count": 19
+  },
+  {
+    "id": "key_deadline_5",
+    "title": "Deadline — Income tax return (annual)",
+    "source_path": "key_deadlines[4]",
+    "text": "Ghana tax filing deadline — Income tax return (annual).\nDeadline: 4 months after the end of the year of assessment.\nLegislation: s.124, Act 896.",
+    "word_count": 24
+  },
+  {
+    "id": "key_deadline_6",
+    "title": "Deadline — Income tax return (extension, if applied for)",
+    "source_path": "key_deadlines[5]",
+    "text": "Ghana tax filing deadline — Income tax return (extension, if applied for).\nDeadline: Up to 60 days from original due date, if approved.\nLegislation: s.30, Act 915.",
+    "word_count": 27
+  },
+  {
+    "id": "key_deadline_7",
+    "title": "Deadline — Withholding tax statement and payment",
+    "source_path": "key_deadlines[6]",
+    "text": "Ghana tax filing deadline — Withholding tax statement and payment.\nDeadline: 15 days after the end of the month.\nLegislation: Act 896.",
+    "word_count": 22
+  },
+  {
+    "id": "key_deadline_8",
+    "title": "Deadline — Contract notification (non-resident contractor)",
+    "source_path": "key_deadlines[7]",
+    "text": "Ghana tax filing deadline — Contract notification (non-resident contractor).\nDeadline: Within 30 days of date of contract.\nLegislation: Act 896.",
+    "word_count": 20
+  },
+  {
+    "id": "key_deadline_9",
+    "title": "Deadline — VAT notice of change in business",
+    "source_path": "key_deadlines[8]",
+    "text": "Ghana tax filing deadline — VAT notice of change in business.\nDeadline: Within 14 days of the change.\nLegislation: Act 870.",
+    "word_count": 21
+  },
+  {
+    "id": "key_deadline_10",
+    "title": "Deadline — VAT registration application (turnover threshold met)",
+    "source_path": "key_deadlines[9]",
+    "text": "Ghana tax filing deadline — VAT registration application (turnover threshold met).\nDeadline: Within 30 days after end of the 12-month or 3-month threshold period.\nLegislation: Act 870.",
+    "word_count": 27
+  },
+  {
+    "id": "key_rate_1",
+    "title": "Rate — Corporate income tax (standard)",
+    "source_path": "key_rates[0]",
+    "text": "Ghana tax rate — Corporate income tax (standard): 25%.",
+    "word_count": 9
+  },
+  {
+    "id": "key_rate_2",
+    "title": "Rate — Hotel industry corporate income tax",
+    "source_path": "key_rates[1]",
+    "text": "Ghana tax rate — Hotel industry corporate income tax: 22%.",
+    "word_count": 10
+  },
+  {
+    "id": "key_rate_3",
+    "title": "Rate — Non-traditional export corporate income tax",
+    "source_path": "key_rates[2]",
+    "text": "Ghana tax rate — Non-traditional export corporate income tax: 8%.",
+    "word_count": 10
+  },
+  {
+    "id": "key_rate_4",
+    "title": "Rate — Financial institution — farm loans income tax",
+    "source_path": "key_rates[3]",
+    "text": "Ghana tax rate — Financial institution — farm loans income tax: 20%.",
+    "word_count": 12
+  },
+  {
+    "id": "key_rate_5",
+    "title": "Rate — Young entrepreneur (post-exemption, Accra/Tema)",
+    "source_path": "key_rates[4]",
+    "text": "Ghana tax rate — Young entrepreneur (post-exemption, Accra/Tema): 15%.",
+    "word_count": 9
+  },
+  {
+    "id": "key_rate_6",
+    "title": "Rate — Young entrepreneur (post-exemption, other regional capitals)",
+    "source_path": "key_rates[5]",
+    "text": "Ghana tax rate — Young entrepreneur (post-exemption, other regional capitals): 12.5%.",
+    "word_count": 11
+  },
+  {
+    "id": "key_rate_7",
+    "title": "Rate — Young entrepreneur (post-exemption, outside regional capitals)",
+    "source_path": "key_rates[6]",
+    "text": "Ghana tax rate — Young entrepreneur (post-exemption, outside regional capitals): 10%.",
+    "word_count": 11
+  },
+  {
+    "id": "key_rate_8",
+    "title": "Rate — Young entrepreneur (post-exemption, former 3 Northern Regions)",
+    "source_path": "key_rates[7]",
+    "text": "Ghana tax rate — Young entrepreneur (post-exemption, former 3 Northern Regions): 5%.",
+    "word_count": 12
+  },
+  {
+    "id": "key_rate_9",
+    "title": "Rate — Non-resident individual income tax",
+    "source_path": "key_rates[8]",
+    "text": "Ghana tax rate — Non-resident individual income tax: 25%.",
+    "word_count": 9
+  },
+  {
+    "id": "key_rate_10",
+    "title": "Rate — Bonus tax (within 15% of annual basic salary)",
+    "source_path": "key_rates[9]",
+    "text": "Ghana tax rate — Bonus tax (within 15% of annual basic salary): 5%.",
+    "word_count": 13
+  },
+  {
+    "id": "key_rate_11",
+    "title": "Rate — VAT (standard rate)",
+    "source_path": "key_rates[10]",
+    "text": "Ghana tax rate — VAT (standard rate): 12.5%.",
+    "word_count": 8
+  },
+  {
+    "id": "key_rate_12",
+    "title": "Rate — VAT (flat rate — retailers/wholesalers)",
+    "source_path": "key_rates[11]",
+    "text": "Ghana tax rate — VAT (flat rate — retailers/wholesalers): 3%.",
+    "word_count": 10
+  },
+  {
+    "id": "key_rate_13",
+    "title": "Rate — VAT withholding rate",
+    "source_path": "key_rates[12]",
+    "text": "Ghana tax rate — VAT withholding rate: 7% of taxable output value.",
+    "word_count": 12
+  },
+  {
+    "id": "key_rate_14",
+    "title": "Rate — Zero-rated supply",
+    "source_path": "key_rates[13]",
+    "text": "Ghana tax rate — Zero-rated supply: 0%.",
+    "word_count": 7
+  },
+  {
+    "id": "key_rate_15",
+    "title": "Rate — Free zone income tax (first 10 years)",
+    "source_path": "key_rates[14]",
+    "text": "Ghana tax rate — Free zone income tax (first 10 years): 0% (exempt).",
+    "word_count": 13
+  },
+  {
+    "id": "key_rate_16",
+    "title": "Rate — Free zone income tax (after 10 years)",
+    "source_path": "key_rates[15]",
+    "text": "Ghana tax rate — Free zone income tax (after 10 years): Maximum 8%.",
+    "word_count": 13
+  },
+  {
+    "id": "key_rate_17",
+    "title": "Rate — Thin capitalisation debt-to-equity limit",
+    "source_path": "key_rates[16]",
+    "text": "Ghana tax rate — Thin capitalisation debt-to-equity limit: 3:1.",
+    "word_count": 9
+  },
+  {
+    "id": "key_rate_18",
+    "title": "Rate — Repairs and improvements deduction limit",
+    "source_path": "key_rates[17]",
+    "text": "Ghana tax rate — Repairs and improvements deduction limit: 5% of written-down value of depreciable asset pool.",
+    "word_count": 17
+  },
+  {
+    "id": "key_rate_19",
+    "title": "Rate — VAT non-registration penalty",
+    "source_path": "key_rates[18]",
+    "text": "Ghana tax rate — VAT non-registration penalty: Up to 2× the VAT on taxable supplies since registration was required.",
+    "word_count": 19
+  },
+  {
+    "id": "key_rate_20",
+    "title": "Rate — VAT late filing penalty",
+    "source_path": "key_rates[19]",
+    "text": "Ghana tax rate — VAT late filing penalty: GHS 500 fixed + GHS 10 per day.",
+    "word_count": 16
+  },
+  {
+    "id": "compliance_faq_1",
+    "title": "FAQ — Do I need to file an income tax return if my only income is a salary?",
+    "source_path": "compliance_faq[0]",
+    "text": "Q: Do I need to file an income tax return if my only income is a salary?\nA: No. A resident individual whose sole income is from employment is not required to file a return, unless the Commissioner-General serves them a written notice to do so (s.125, Act 896).",
+    "word_count": 49
+  },
+  {
+    "id": "compliance_faq_2",
+    "title": "FAQ — When must I register for VAT?",
+    "source_path": "compliance_faq[1]",
+    "text": "Q: When must I register for VAT?\nA: You must register if your taxable supplies exceed GHS 200,000 in any 12-month period, or if your supplies in any 3-month period exceed GHS 50,000 and there are reasonable grounds to expect supplies will exceed GHS 200,000 in 12 months. The application must be filed within 30 days of reaching the threshold.",
+    "word_count": 60
+  },
+  {
+    "id": "compliance_faq_3",
+    "title": "FAQ — What happens if I don't register for VAT when required?",
+    "source_path": "compliance_faq[2]",
+    "text": "Q: What happens if I don't register for VAT when required?\nA: You will be treated as a taxable person from the beginning of the period when registration was required, and you will be liable to a penalty of up to 2 times the VAT you should have charged from that date.",
+    "word_count": 52
+  },
+  {
+    "id": "compliance_faq_4",
+    "title": "FAQ — Can I deduct expenses for my business from my taxable income?",
+    "source_path": "compliance_faq[3]",
+    "text": "Q: Can I deduct expenses for my business from my taxable income?\nA: Yes, if the expenses were wholly, exclusively, and necessarily incurred in producing your business income and are not capital in nature. Common deductible expenses include interest on loans, cost of sales, bad debts, repairs (limited to 5% of asset pool value), research and development, and financial costs.",
+    "word_count": 60
+  },
+  {
+    "id": "compliance_faq_5",
+    "title": "FAQ — I am a sole proprietor under 35 in agro-processing. Am I eligible for any tax relief?",
+    "source_path": "compliance_faq[4]",
+    "text": "Q: I am a sole proprietor under 35 in agro-processing. Am I eligible for any tax relief?\nA: Yes. Your business income is exempt from income tax for the first 5 years. After that, you pay a reduced rate depending on location — 15% in Accra/Tema, 12.5% in other regional capitals (excluding former 3 Northern Regions), 10% outside regional capitals, or 5% in the former 3 Northern Regions.",
+    "word_count": 68
+  },
+  {
+    "id": "compliance_faq_6",
+    "title": "FAQ — My bonus this year is 20% of my annual basic salary. How is it taxed?",
+    "source_path": "compliance_faq[5]",
+    "text": "Q: My bonus this year is 20% of my annual basic salary. How is it taxed?\nA: The first 15% of your annual basic salary paid as bonus is taxed at a flat rate of 5%. The remaining 5% (the excess above the 15% threshold) is added to your employment income and taxed at the graduated rate.",
+    "word_count": 57
+  },
+  {
+    "id": "compliance_faq_7",
+    "title": "FAQ — Is a partnership taxed as an entity?",
+    "source_path": "compliance_faq[6]",
+    "text": "Q: Is a partnership taxed as an entity?\nA: No. A partnership itself does not pay income tax. Each partner is taxed individually on their share of the partnership income.",
+    "word_count": 30
+  },
+  {
+    "id": "compliance_faq_8",
+    "title": "FAQ — How does VAT withholding work for my business?",
+    "source_path": "compliance_faq[7]",
+    "text": "Q: How does VAT withholding work for my business?\nA: If your customer is a VAT Withholding Agent appointed by the Commissioner-General, they will withhold 7% of the taxable output value (the VAT component) when paying you and remit it directly to GRA. They must issue you a withholding VAT credit certificate.",
+    "word_count": 52
+  },
+  {
+    "id": "compliance_faq_9",
+    "title": "FAQ — Can I get a refund if I overpay VAT?",
+    "source_path": "compliance_faq[8]",
+    "text": "Q: Can I get a refund if I overpay VAT?\nA: Yes. If your deductible input tax exceeds your output tax in a tax period, the excess is treated as a credit or refund under Section 50 of Act 870.",
+    "word_count": 40
+  },
+  {
+    "id": "compliance_faq_10",
+    "title": "FAQ — What are the benefits of operating in a Free Zone?",
+    "source_path": "compliance_faq[9]",
+    "text": "Q: What are the benefits of operating in a Free Zone?\nA: Free zone enterprises enjoy 10 years of income tax exemption, followed by a maximum rate of 8%. Shareholders are exempt from withholding tax on dividends. Imports into the free zone are exempt from all direct and indirect taxes and duties. Foreign and domestic investors may each hold up to 100% of shares.",
+    "word_count": 64
+  },
+  {
+    "id": "compliance_faq_11",
+    "title": "FAQ — How much of a free zone enterprise's output can be sold locally?",
+    "source_path": "compliance_faq[10]",
+    "text": "Q: How much of a free zone enterprise's output can be sold locally?\nA: Up to 30% of annual production may be sold to the national customs territory, but such sales are treated as imports and subject to applicable customs duties and taxes.",
+    "word_count": 43
+  },
+  {
+    "id": "compliance_faq_12",
+    "title": "FAQ — What is the penalty for late VAT filing?",
+    "source_path": "compliance_faq[11]",
+    "text": "Q: What is the penalty for late VAT filing?\nA: GHS 500 fixed penalty plus GHS 10 for each day the return remains unfiled after the due date.",
+    "word_count": 28
+  },
+  {
+    "id": "compliance_faq_13",
+    "title": "FAQ — Can GRA seal my business premises?",
+    "source_path": "compliance_faq[12]",
+    "text": "Q: Can GRA seal my business premises?\nA: Yes. The Commissioner-General may obtain a court order to seal premises if you fail to issue tax invoices, improperly claim refunds, fail to file tax returns, or fail to pay tax when due.",
+    "word_count": 41
+  },
+  {
+    "id": "compliance_faq_14",
+    "title": "FAQ — Is my donation to a charity deductible?",
+    "source_path": "compliance_faq[13]",
+    "text": "Q: Is my donation to a charity deductible?\nA: Yes, if the cause is a worthwhile cause approved by the Commissioner-General. Qualifying worthwhile causes include approved charitable organisations, scholarship schemes, rural/urban development, and sports development.",
+    "word_count": 35
+  },
+  {
+    "id": "sector_financial_institutions",
+    "title": "Sector Notes — Financial Institutions",
+    "source_path": "sector_specific_notes.financial_institutions",
+    "text": "Sector Notes — Financial Institutions\n\nNote: Banks and financial institutions are excluded from the thin capitalisation rule. They compute VAT input tax deductions only on amounts directly linked to taxable supplies.",
+    "word_count": 31
+  },
+  {
+    "id": "sector_petroleum_operations",
+    "title": "Sector Notes — Petroleum Operations",
+    "source_path": "sector_specific_notes.petroleum_operations",
+    "text": "Sector Notes — Petroleum Operations\n\nNote: Petroleum operations are taxed separately per petroleum right. Specific deduction rules apply. Tax is payable 30 days after each quarter. Withholding tax applies to dividends between resident petroleum companies and to expatriate employee income.",
+    "word_count": 40
+  },
+  {
+    "id": "sector_mining_operations",
+    "title": "Sector Notes — Mining Operations",
+    "source_path": "sector_specific_notes.mining_operations",
+    "text": "Sector Notes — Mining Operations\n\nNote: Mineral operations are taxed separately per mineral right. Similar regime to petroleum. Approved rehabilitation funds are exempt from tax.",
+    "word_count": 25
+  },
+  {
+    "id": "sector_insurance",
+    "title": "Sector Notes — Insurance",
+    "source_path": "sector_specific_notes.insurance",
+    "text": "Sector Notes — Insurance\n\nGeneral insurance: Income computed separately from other activities. Income includes premiums received, reinsurance proceeds, and unexpired risk reserves.\nLife insurance: Income computed separately. Life insurance gains paid by a resident insurer to the insured are exempt from tax.",
+    "word_count": 42
+  },
+  {
+    "id": "sector_retirement_funds",
+    "title": "Sector Notes — Retirement Funds",
+    "source_path": "sector_specific_notes.retirement_funds",
+    "text": "Sector Notes — Retirement Funds\n\nNote: Retirement contributions are exempt from tax. Retirement payments from a resident fund are excluded from the beneficiary's income.",
+    "word_count": 24
+  },
+  {
+    "id": "sector_charitable_organisations",
+    "title": "Sector Notes — Charitable Organisations",
+    "source_path": "sector_specific_notes.charitable_organisations",
+    "text": "Sector Notes — Charitable Organisations\n\nNote: Income of approved charitable organisations is exempt from tax, EXCEPT income from business activities.",
+    "word_count": 20
+  }
+]

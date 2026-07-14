@@ -1,7 +1,6 @@
-server.py
-taxbot.py
-
 .env
 .DS_Store
 __pycache__/
 *.py[cod]
+chroma_db/
+knowledge_base/.fastembed_cache/

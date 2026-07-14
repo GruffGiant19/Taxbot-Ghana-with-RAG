@@ -40,7 +40,9 @@ API_HEADERS = {
 }
 
 MAX_HISTORY_TURNS = 40
-RAG_TOP_K         = 3    # number of KB chunks to retrieve per query
+RAG_TOP_K         = 10   # number of KB chunks to retrieve per query — chunks
+                          # are small/atomic (one fact each), so a wider
+                          # window is cheap and improves recall
 
 # ── Knowledge Base ─────────────────────────────────────────────────────────
 
@@ -88,7 +90,7 @@ Your users are business owners, sole proprietors, and small company directors wh
 
 YOUR KNOWLEDGE SOURCES — use them in this order:
 1. THE KNOWLEDGE BASE (injected below) is your primary source for all rates, deadlines, thresholds, act references, and penalties. For any fact involving a number, date, or legal citation, the knowledge base is authoritative. If the knowledge base and your training data conflict, always defer to the knowledge base and flag the discrepancy to the user.
-2. YOUR OWN KNOWLEDGE AND CAPABILITIES are secondary. Use them to explain, interpret, and reason about what the knowledge base says in plain language, and to answer questions the knowledge base does not cover. When answering from your own training data rather than the knowledge base, make this explicit to the user.
+2. YOUR OWN KNOWLEDGE AND CAPABILITIES are secondary. Use them to explain, interpret, and reason about what the knowledge base says in plain language, and to answer questions the knowledge base does not cover. When answering from your own training data rather than the knowledge base, always preface your response with: "This is not covered in my knowledge base, but based on publicly available information —" before giving the answer.
 3. IF a question is not covered by the knowledge base, or may have changed since your training cutoff (e.g. budget changes, GRA announcements), tell the user you are answering based on your training data and recommend they verify with GRA directly at www.gra.gov.gh.
 
 RESPONSE STYLE:
@@ -110,18 +112,18 @@ def build_system_prompt(kb):
     if kb is None:
         return PERSONA_PROMPT + "\n\n[Knowledge base unavailable — relying on own capabilities.]"
 
-    kb_text = json.dumps(kb, indent=2)
-    return PERSONA_PROMPT + f"""
+    return PERSONA_PROMPT + """
 
 ---
 
-## KNOWLEDGE BASE (Ghana MSME Tax — authoritative reference)
+## KNOWLEDGE BASE
 
-The following is a structured JSON knowledge base extracted from Ghana's primary tax legislation and GRA guidance documents. Treat it as a reliable reference but NOT as the ceiling of your knowledge. Use it to verify rates, deadlines, and act references.
-
-```json
-{kb_text}
-```
+Relevant excerpts from Ghana's MSME tax knowledge base will be attached to
+each user message below, marked "## Relevant Knowledge Base Excerpts."
+Treat those excerpts as authoritative for rates, deadlines, thresholds, and
+legal citations for this turn. If no excerpts are attached, or they don't
+cover the question, say so and fall back to your own knowledge per the
+instructions above.
 """
 
 # ── Conversation ───────────────────────────────────────────────────────────
