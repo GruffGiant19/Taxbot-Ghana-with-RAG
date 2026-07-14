@@ -3,8 +3,5 @@
     "api/*.py": {
       "includeFiles": "**"
     }
-  },
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/api/chat" }
-  ]
+  }
 }
