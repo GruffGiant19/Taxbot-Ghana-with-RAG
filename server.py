@@ -38,7 +38,7 @@ SYSTEM_PROMPT = build_system_prompt(kb)
 conversation_history = []
 history_lock = threading.Lock()
 
-INDEX_PATH = os.path.join(ROOT, "public", "index.html")
+INDEX_PATH = os.path.join(ROOT, "frontend", "index.html")
 
 # ── Helpers ────────────────────────────────────────────────────────────────
 

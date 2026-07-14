@@ -218,7 +218,7 @@ class handler(BaseHTTPRequestHandler):
     def do_GET(self):
         if self.handle_startup_error():
             return
-        index_path = os.path.join(ROOT, "public", "index.html")
+        index_path = os.path.join(ROOT, "frontend", "index.html")
         try:
             with open(index_path, "rb") as f:
                 content = f.read()
@@ -228,19 +228,8 @@ class handler(BaseHTTPRequestHandler):
             self.wfile.write(content)
         except FileNotFoundError:
             self.send_response(404)
-            self.send_header("Content-Type", "text/plain")
             self.end_headers()
-            try:
-                root_listing = ", ".join(sorted(os.listdir(ROOT)))
-            except OSError as exc:
-                root_listing = f"<could not list ROOT: {exc}>"
-            debug = (
-                f"404 Not Found\n"
-                f"Looked for: {index_path}\n"
-                f"ROOT: {ROOT}\n"
-                f"ROOT contents: {root_listing}"
-            )
-            self.wfile.write(debug.encode("utf-8"))
+            self.wfile.write(b"404 Not Found")
 
     def do_POST(self):
         if self.handle_startup_error():
