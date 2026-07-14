@@ -228,8 +228,19 @@ class handler(BaseHTTPRequestHandler):
             self.wfile.write(content)
         except FileNotFoundError:
             self.send_response(404)
+            self.send_header("Content-Type", "text/plain")
             self.end_headers()
-            self.wfile.write(b"404 Not Found")
+            try:
+                root_listing = ", ".join(sorted(os.listdir(ROOT)))
+            except OSError as exc:
+                root_listing = f"<could not list ROOT: {exc}>"
+            debug = (
+                f"404 Not Found\n"
+                f"Looked for: {index_path}\n"
+                f"ROOT: {ROOT}\n"
+                f"ROOT contents: {root_listing}"
+            )
+            self.wfile.write(debug.encode("utf-8"))
 
     def do_POST(self):
         if self.handle_startup_error():
