@@ -7,3 +7,10 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "numpy>=1.26.0",
 ]
+
+# Required: without this, Vercel's build auto-detects root-level server.py
+# (our local dev server, not a Vercel entrypoint) as a candidate app/handler
+# module — matching its "app.py/index.py/server.py/main.py/wsgi.py/asgi.py"
+# naming convention — and fails since it exports no app/handler variable.
+[tool.vercel]
+entrypoint = "api.chat:handler"
