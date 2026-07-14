@@ -100,7 +100,7 @@ def main():
     system_prompt = build_system_prompt(kb)
 
     rag_status = (
-        "[bold green]RAG active[/bold green] — ChromaDB vector search enabled"
+        "[bold green]RAG active[/bold green] — local vector search enabled"
         if retriever is not None
         else "[yellow]RAG offline[/yellow] — run ingest_chroma.py to enable"
     )

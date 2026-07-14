@@ -5,7 +5,6 @@
         "knowledge_base/retriever.py",
         "knowledge_base/kb_index.json",
         "knowledge_base/ghana_msme_tax_knowledge_base.json",
-        "knowledge_base/.fastembed_cache/**",
         "public/**"
       ]
     }

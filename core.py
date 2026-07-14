@@ -29,7 +29,7 @@ if not OPENROUTER_API_KEY:
     else:
         OPENROUTER_API_KEY = ""
 
-MODEL = os.getenv("OPENROUTER_MODEL", "google/gemini-flash-1.5")
+MODEL = os.getenv("OPENROUTER_MODEL", "google/gemini-2.5-flash")
 
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 API_HEADERS = {
